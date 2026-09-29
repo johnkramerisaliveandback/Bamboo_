@@ -1,0 +1,85 @@
+# ==========================================
+# Bamboo — Android / Kotlin .gitignore
+# ==========================================
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Android Studio local settings
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/dictionaries/
+.idea/caches/
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local Gradle configuration
+local.properties
+
+# Android generated files
+.externalNativeBuild/
+.cxx/
+captures/
+outputs/
+
+# APK / AAB
+*.apk
+*.aab
+
+# Kotlin / Java compiled files
+*.class
+*.kotlin_module
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# ==========================================
+# Signing / Credentials
+# ==========================================
+
+*.jks
+*.keystore
+*.p12
+*.key
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+secrets.properties
+secrets.gradle
+
+# ==========================================
+# Firebase / Google Services
+# ==========================================
+
+google-services.json
+
+# ==========================================
+# Local databases / test data
+# ==========================================
+
+*.db
+*.sqlite
+*.sqlite3
+
+# Test reports
+/test-results/
+/reports/

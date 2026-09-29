@@ -1,0 +1,6 @@
+{
+  "name": "Bamboo",
+  "description": "Personal Academic Operating System with premium, spacious dark orange UI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
