@@ -133,15 +133,6 @@ The architecture is designed around a single source of truth for academic data a
 
 Bamboo is designed as a local-first application.
 
-The current version does not require:
-
-- Login
-- Signup
-- Firebase Authentication
-- Firebase Firestore
-- Firebase Storage
-- Firebase Cloud Messaging
-- Cloud profile synchronization
 
 Academic information and locally imported files are stored on the user's device.
 
