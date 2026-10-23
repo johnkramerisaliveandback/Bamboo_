@@ -1,0 +1,41 @@
+BAMBOO PERSONAL-USE LICENSE
+
+Copyright (c) 2026 johnkramerisback. All rights reserved.
+
+Bamboo — Academic OS is provided for personal, non-commercial use, subject to
+the terms below.
+
+You may:
+- Download the project from the official Bamboo repository.
+- Install and use an officially provided build of Bamboo for your own personal
+  academic and productivity purposes.
+- View the publicly available source code for learning and review.
+- Make local copies only as reasonably necessary to install, back up, or run
+  the software for your own personal use.
+
+You may not, without prior written permission from the copyright holder:
+- Re-upload, republish, mirror, redistribute, or share copies of the source
+  code, APK, or other project materials.
+- Publish or distribute modified, forked, or derivative versions of Bamboo.
+- Claim authorship of Bamboo or present its source code, design, or project as
+  your own work.
+- Sell, sublicense, or commercially distribute Bamboo or copies of it.
+- Remove, alter, or obscure copyright notices or this license.
+
+All rights not expressly granted above are reserved by the copyright holder.
+This license does not transfer ownership of the software or its copyright.
+
+Third-party libraries, tools, and other materials included in or used by the
+project may be subject to their own separate licenses. This license does not
+replace or override those third-party terms.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+For permission beyond personal use, contact the copyright holder through the
+official Bamboo GitHub repository.
