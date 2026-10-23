@@ -258,4 +258,3 @@ Bamboo is provided under the **Bamboo Personal-Use License** in the [LICENSE](LI
 You may use Bamboo for your own personal, non-commercial purposes. Without prior written permission, you may not re-upload or redistribute the source code or APK, publish modified or forked versions, sell copies, or claim the project as your own. All other rights are reserved.
 
 This is a restrictive custom license, not an open-source license. Public visibility on GitHub does not grant permission to relicense or redistribute the project. Third-party components may have their own licenses. See [LICENSE](LICENSE) for the complete terms.
-```
