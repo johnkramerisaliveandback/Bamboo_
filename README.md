@@ -1,4 +1,3 @@
-```markdown
 # Bamboo — Academic OS
 
 Bamboo is a local-first Android academic management application developed for B.Tech 1st-year students at IET Lucknow.
@@ -196,7 +195,7 @@ Bamboo/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Bamboo.git
+git clone https://github.com/johnkramerisaliveandback/Bamboo_.git
 ```
 
 Open the project in Android Studio and allow Gradle to synchronize.
@@ -254,7 +253,9 @@ Drive Link-https://drive.google.com/file/d/1GJd6zXjcosh3LDplS6tJlydD_YbGxMrL/vie
 
 ## License
 
-Copyright © 2026 johnkramerisback.
+Bamboo is provided under the **Bamboo Personal-Use License** in the [LICENSE](LICENSE) file.
 
-See the LICENSE file for the applicable terms and conditions.
+You may use Bamboo for your own personal, non-commercial purposes. Without prior written permission, you may not re-upload or redistribute the source code or APK, publish modified or forked versions, sell copies, or claim the project as your own. All other rights are reserved.
+
+This is a restrictive custom license, not an open-source license. Public visibility on GitHub does not grant permission to relicense or redistribute the project. Third-party components may have their own licenses. See [LICENSE](LICENSE) for the complete terms.
 ```
