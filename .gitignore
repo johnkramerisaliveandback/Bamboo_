@@ -31,6 +31,7 @@ outputs/
 # APK / AAB
 *.apk
 *.aab
+app/release/
 
 # Kotlin / Java compiled files
 *.class
