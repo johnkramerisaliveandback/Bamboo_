@@ -11,7 +11,7 @@ class AlarmReceiver : BroadcastReceiver() {
         val label = intent.getStringExtra("ALARM_LABEL") ?: "Alarm"
         val soundUrl = intent.getStringExtra("ALARM_SOUND_URL")
         
-        Log.d("AlarmReceiver", "Alarm fired: $alarmId - $label")
+        Log.d("AlarmReceiver", "Alarm fired: $alarmId")
         
         val fullScreenIntent = Intent(context, AlarmActivity::class.java).apply {
             flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TASK

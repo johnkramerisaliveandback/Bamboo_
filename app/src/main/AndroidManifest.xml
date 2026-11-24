@@ -15,7 +15,7 @@
 
     <application
         android:name=".BambooApplication"
-        android:allowBackup="true"
+        android:allowBackup="false"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@drawable/bamboo_icon_fg"
